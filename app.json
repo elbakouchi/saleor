@@ -1,7 +1,7 @@
 {
   "name": "saleor",
   "description": "An e-commerce storefront for Python and Django",
-  "repository": "https://github.com/mirumee/saleor",
+  "repository": "https://github.com/elbakouchi/saleor",
   "website": "http://getsaleor.com/",
   "logo": "https://mirumee.com/img/opensource_saleor.jpg",
   "keywords": [
@@ -47,7 +47,7 @@
     "heroku-postgresql:hobby-dev",
     "heroku-redis:hobby-dev",
     "cloudamqp:lemur",
-    "sendgrid:starter",
+    "mailtrap:unpaid",
     "scheduler:standard"
   ],
   "buildpacks": [
